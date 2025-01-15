@@ -1,8 +1,8 @@
 #include <algorithm>
 #include <chrono>
 #include <cmath>
-#include <cstdlib> // 用于随机数生成
-#include <ctime>   // 用于随机种子初始化
+#include <cstdlib> 
+#include <ctime>  
 #include <iostream>
 #include <limits>
 #include <vector>
