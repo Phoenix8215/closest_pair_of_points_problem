@@ -1,0 +1,2 @@
+# closest_pair_of_points_problem
+使用分治法计算二维平面/三维空间中的最近点对
